@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+header {
+  height: 70px;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  background-color: dimgray;
+}
+#content {
+  width: 100%;
+  background-color: grey;
+  position: absolute;
+  top:70px;
+  bottom: 0px;
+  overflow: auto;
+}
+.home-Image{
+  margin: 15px;
+}
+footer {
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  background-color: dimgray;
+
+}

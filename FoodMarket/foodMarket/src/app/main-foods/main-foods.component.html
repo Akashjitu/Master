@@ -1,0 +1,39 @@
+<!-- <div style="margin-top: 20px">
+  <h1>Foods</h1>
+
+  <div>
+    <div style="margin-bottom: 20px">
+      <label style="margin-left: 15px;"> Search Foods</label>
+        <input type="text" class="form-control"  value="455"> -->
+<!-- <input type="text" class="form-control" [(ngModel)]={{searchfood}}  value="455"> -->
+<!-- </div>
+  </div> -->
+
+
+  <!-- <div style="margin-top: 300px">
+      <label style="margin-left: 15px;"> Search Foods
+          <input type="text" value="455">
+      </label>
+      </div> -->
+
+<!-- <div class="col-md-3 text-center" *ngFor="let p of foods | foodNameFilter:searchfood"> -->
+<div *ngFor="let p of foods">
+    
+  <div class="col-md-3 text-center" style="margin-top : 100px; margin-bottom: 100px;" >
+    <label class="checkbox" style="margin-left: 2px">
+      <input type="checkbox" />
+      <div class="card">
+        <div class="front">
+          <img class="img-thumbnail" [src]="p.image" />
+        </div>
+        <div class="back">
+          <h6>p.cost</h6>
+          <h6>p.name</h6>
+          <h6>p.id</h6>
+          <h6>p.category</h6>
+          <h6>p.store</h6>
+        </div>
+      </div>
+    </label>
+  </div>
+</div>

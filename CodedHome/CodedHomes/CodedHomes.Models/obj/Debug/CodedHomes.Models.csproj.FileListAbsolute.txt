@@ -1,0 +1,11 @@
+c:\users\akash\documents\visual studio 2015\Projects\CodedHomes\CodedHomes.Models\bin\Debug\CodedHomes.Models.dll
+c:\users\akash\documents\visual studio 2015\Projects\CodedHomes\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
+c:\users\akash\documents\visual studio 2015\Projects\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
+c:\users\akash\documents\visual studio 2015\Projects\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
+c:\users\akash\documents\visual studio 2015\Projects\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb
+c:\users\akash\documents\visual studio 2015\Projects\CodedHomes\CodedHomes.Models\bin\Debug\DataAnnotationsExtensions.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Models\bin\Debug\CodedHomes.Models.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Models\bin\Debug\DataAnnotationsExtensions.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb

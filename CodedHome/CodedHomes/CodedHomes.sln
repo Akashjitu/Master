@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Models", "CodedHomes.Models\CodedHomes.Models.csproj", "{0D698038-EAB1-4348-8329-B84121615AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Data", "CodedHomes.Data\CodedHomes.Data.csproj", "{DFEB1090-A1D2-45A5-82EA-2FD30F18EE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Console", "CodedHomes.Console\CodedHomes.Console.csproj", "{621CAF7C-A551-4A0C-B81B-1FE4E9EFB569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D698038-EAB1-4348-8329-B84121615AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D698038-EAB1-4348-8329-B84121615AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D698038-EAB1-4348-8329-B84121615AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D698038-EAB1-4348-8329-B84121615AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEB1090-A1D2-45A5-82EA-2FD30F18EE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEB1090-A1D2-45A5-82EA-2FD30F18EE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEB1090-A1D2-45A5-82EA-2FD30F18EE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEB1090-A1D2-45A5-82EA-2FD30F18EE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621CAF7C-A551-4A0C-B81B-1FE4E9EFB569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621CAF7C-A551-4A0C-B81B-1FE4E9EFB569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621CAF7C-A551-4A0C-B81B-1FE4E9EFB569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621CAF7C-A551-4A0C-B81B-1FE4E9EFB569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

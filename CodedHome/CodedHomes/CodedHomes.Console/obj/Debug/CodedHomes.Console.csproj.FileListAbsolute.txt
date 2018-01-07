@@ -1,0 +1,14 @@
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Console.exe.config
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Console.exe
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Console.pdb
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Data.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Models.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\EntityFramework.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Data.pdb
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\CodedHomes.Models.pdb
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\EntityFramework.xml
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\obj\Debug\CodedHomes.Console.csprojResolveAssemblyReference.cache
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\obj\Debug\CodedHomes.Console.exe
+C:\Users\akash\Documents\Angular4\Master\CodedHome\CodedHomes\CodedHomes.Console\obj\Debug\CodedHomes.Console.pdb

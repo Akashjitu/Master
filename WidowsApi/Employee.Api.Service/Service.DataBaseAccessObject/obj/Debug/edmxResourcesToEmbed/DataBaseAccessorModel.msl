@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CompanyDbModelStoreContainer" CdmEntityContainer="CompanyDbEntities">
+    <EntitySetMapping Name="tb_Company">
+      <EntityTypeMapping TypeName="CompanyDbModel.tb_Company">
+        <MappingFragment StoreEntitySet="tb_Company">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Department">
+      <EntityTypeMapping TypeName="CompanyDbModel.tb_Department">
+        <MappingFragment StoreEntitySet="tb_Department">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CompanyId" ColumnName="CompanyId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Employees">
+      <EntityTypeMapping TypeName="CompanyDbModel.tb_Employees">
+        <MappingFragment StoreEntitySet="tb_Employees">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Deparment_Id" ColumnName="Deparment_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

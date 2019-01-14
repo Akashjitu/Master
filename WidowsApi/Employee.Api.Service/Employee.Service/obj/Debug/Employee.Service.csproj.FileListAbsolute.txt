@@ -1,0 +1,15 @@
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Employee.Service.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Employee.Service.pdb
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Service.DataBaseAccessObject.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\EntityFramework.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Service.DataBaseAccessObject.pdb
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\EntityFramework.xml
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\obj\Debug\Employee.Service.csprojResolveAssemblyReference.cache
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\obj\Debug\Employee.Service.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\obj\Debug\Employee.Service.pdb
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\Employee.Service.dll.config
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Employee.Service\bin\Debug\EntityFramework.SqlServer.xml

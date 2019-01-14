@@ -1,0 +1,13 @@
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\Service.DataBaseAccessObject.dll.config
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\Service.DataBaseAccessObject.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\Service.DataBaseAccessObject.pdb
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\EntityFramework.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\EntityFramework.xml
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\obj\Debug\Service.DataBaseAccessObject.dll
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\TaxbackGroupProject\Employee.Api.Service\Service.DataBaseAccessObject\obj\Debug\Service.DataBaseAccessObject.pdb

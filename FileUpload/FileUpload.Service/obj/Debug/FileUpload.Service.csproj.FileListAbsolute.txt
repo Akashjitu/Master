@@ -1,0 +1,8 @@
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\bin\Debug\FileUpload.Service.dll.config
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\bin\Debug\FileUpload.Service.dll
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\bin\Debug\FileUpload.Service.pdb
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\obj\Debug\FileUpload.Service.dll
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\obj\Debug\FileUpload.Service.pdb
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\bin\Debug\FileUploadContract.dll
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\bin\Debug\FileUploadContract.pdb
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Service\obj\Debug\FileUpload.Service.csprojResolveAssemblyReference.cache

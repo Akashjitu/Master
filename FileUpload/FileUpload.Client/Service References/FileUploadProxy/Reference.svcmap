@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c701177f-0cbb-4052-b335-f636a2a78e4e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8090/FileService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FileService3.xsd" MetadataType="Schema" ID="b413df81-cf30-4ed4-8d7b-2597509627aa" SourceId="1" SourceUrl="http://localhost:8090/FileService?xsd=xsd3" />
+    <MetadataFile FileName="FileService.xsd" MetadataType="Schema" ID="8270d2d6-43fb-4003-b760-3a8742574cb6" SourceId="1" SourceUrl="http://localhost:8090/FileService?xsd=xsd2" />
+    <MetadataFile FileName="FileService2.xsd" MetadataType="Schema" ID="a1458edb-bcdb-45e8-8e53-7acf5cdc93cd" SourceId="1" SourceUrl="http://localhost:8090/FileService?xsd=xsd1" />
+    <MetadataFile FileName="FileService1.xsd" MetadataType="Schema" ID="c1ff4552-3234-40cf-aa4c-6cbc6545070b" SourceId="1" SourceUrl="http://localhost:8090/FileService?xsd=xsd0" />
+    <MetadataFile FileName="FileService.disco" MetadataType="Disco" ID="bbbbb046-6a63-4122-b23d-dd94bdeb1ed5" SourceId="1" SourceUrl="http://localhost:8090/FileService?disco" />
+    <MetadataFile FileName="FileService.wsdl" MetadataType="Wsdl" ID="b8db6a88-e76c-4241-9ee2-6a717e3bcef6" SourceId="1" SourceUrl="http://localhost:8090/FileService?wsdl" />
+    <MetadataFile FileName="FileService4.xsd" MetadataType="Schema" ID="117da71a-9674-4bc1-b396-4fb738e7736b" SourceId="1" SourceUrl="http://localhost:8090/FileService?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

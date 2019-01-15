@@ -1,0 +1,12 @@
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\bin\Debug\FileUpload.Client.exe.config
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\bin\Debug\FileUpload.Client.exe
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\bin\Debug\FileUpload.Client.pdb
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.Properties.Resources.resources
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.csproj.GenerateResource.Cache
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.exe
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.pdb
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.Form1.resources
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.csprojResolveAssemblyReference.cache
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\bin\Debug\FileUploadContract.dll
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\bin\Debug\FileUploadContract.pdb
+C:\Users\Akash-PC\Documents\Visual Studio 2015\Projects\FileUpload\AppHost\FileUpload.Client\obj\Debug\FileUpload.Client.frmLogin.resources

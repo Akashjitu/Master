@@ -1,0 +1,4 @@
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUploadContract\bin\Debug\FileUploadContract.dll
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUploadContract\bin\Debug\FileUploadContract.pdb
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUploadContract\obj\Debug\FileUploadContract.dll
+c:\Users\Akash-PC\documents\visual studio 2015\Projects\FileUpload\AppHost\FileUploadContract\obj\Debug\FileUploadContract.pdb
